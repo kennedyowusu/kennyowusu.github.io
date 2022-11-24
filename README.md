@@ -48,9 +48,12 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](kennedyowusu.github.io-porsche-cars)
+- [Live Demo Link](https://kennedyowusu.github.io/kennyowusu.github.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Video Demo <a name="live-demo"></a>
+-  [Video Demo Link]https://www.loom.com/share/476cc7712b454b1aacc4130a09be33bc
 
 <!-- GETTING STARTED -->
 
@@ -75,7 +78,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone (https://github.com/kennedyowusu/capstone-project-microverse)
+  git clone (https://github.com/kennedyowusu/kennyowusu.github.io)
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- AUTHORS -->
