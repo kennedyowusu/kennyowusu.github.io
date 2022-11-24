@@ -48,7 +48,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](kennedyowusu.github.io-porsche-cars)
+- [Live Demo Link](https://shegy28.github.io/Fashion-week/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
